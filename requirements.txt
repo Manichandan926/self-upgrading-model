@@ -1,0 +1,15 @@
+pyttsx3
+
+SpeechRecognition
+
+wikipedia
+
+pyautogui
+
+requests
+
+geocoder
+
+wolframalpha
+
+google-generativeai
