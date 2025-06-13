@@ -34,14 +34,14 @@ bash
 ├── upgrade_versions/         # Stores upgraded versions
 ├── .gitignore                # Exclude sensitive or temp files
 🧪 How to Run
+```
+
 Install dependencies:
-
-bash
-Copy
-Edit
+```
 pip install -r requirements.txt
+```
 
-Add your API keys:
+##Add your API keys:
 
 Replace placeholders like YOUR_NEWS_API_KEY and YOUR_WEATHER_API_KEY
 
@@ -49,9 +49,6 @@ Or use a .env file with environment variables
 
 Run the assistant:
 
-bash
-Copy
-Edit
 python genpy.py
 🔐 Environment & Security
 Ensure these files are kept secure and ignored in Git:
